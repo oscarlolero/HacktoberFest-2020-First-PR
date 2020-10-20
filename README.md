@@ -6,3 +6,4 @@ Este repositorio es para celebrar el Hacktoberfest 2020 🎉 de la mano de BeeDe
 ## Lista de participantes de Hacktoberfest by BeeDevelopers 2020 👨🏻‍💻 👩🏻‍💻
 
 📍 [Alan Alvarez](https://www.instagram.com/alanalv5/)
+📍 [Oscar Montes](https://www.facebook.com/oscar.lolero/)
